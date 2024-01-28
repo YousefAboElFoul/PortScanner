@@ -28,9 +28,4 @@ This command will scan ports 50 to 84 on the IP address `192.168.1.1` and print 
 ## Note
 - This script is intended for educational purposes and should be used responsibly. Scanning networks or systems without proper authorization may violate ethical guidelines or legal regulations.
 - Be mindful of network policies and obtain permission before scanning any network that you do not own or administer.
-This command will scan ports 50 to 84 on the IP address `192.168.1.1` and print the status of each port (open or closed).
-
-## Note
-- This script is intended for educational purposes and should be used responsibly. Scanning networks or systems without proper authorization may violate ethical guidelines or legal regulations.
-- Be mindful of network policies and obtain permission before scanning any network that you do not own or administer.
 
